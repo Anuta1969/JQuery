@@ -1,0 +1,45 @@
+
+body {
+
+    background-color: darkkhaki;
+}
+
+.list {
+display: flex;
+
+}
+
+
+button {
+    
+    width:100px;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: darkturquoise;
+}
+.active {
+
+    background-color: pink;
+    width:120px;
+    height: 50px;
+}
+
+
+img {
+
+  
+    width: 400px;
+    height: 300px;
+
+}
+
+.wrapper {
+
+    display: flex;
+    margin-top: 70px;
+    justify-content: space-between;
+    padding: 0px 350px;
+    
+}
+
